@@ -84,7 +84,7 @@ export default class Deck extends Component {
         ) : (
           <div>
             <h1 className="Deck-title">
-              Get Dealer{" "}
+              Card Dealer{" "}
               <span role="img" aria-label="img">
                 😎😎
               </span>
