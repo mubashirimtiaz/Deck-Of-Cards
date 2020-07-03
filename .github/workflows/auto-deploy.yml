@@ -42,4 +42,4 @@ jobs:
 
       # Deploy to surge
       - name: Deploy react app to surge
-        run: surge ./build deck-of-cards.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+        run: surge ./build deck-of-cards-project.surge.sh --token ${{ secrets.SURGE_TOKEN }}
