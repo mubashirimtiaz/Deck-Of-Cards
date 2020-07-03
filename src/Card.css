@@ -1,0 +1,8 @@
+.Card-image {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  box-shadow: 1px 1px 5px #f7f7f7;
+  border-radius: 10px;
+}

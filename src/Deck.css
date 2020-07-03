@@ -1,0 +1,32 @@
+.Deck-button {
+  border: none;
+  outline: none;
+  padding: 10px 30px;
+  border-radius: 3px;
+  color: #ffffff;
+  background-color: cornflowerblue;
+  text-shadow: 1px 1px 3px #757575;
+  box-shadow: inset 1px 1px 5px skyblue;
+  font-size: 1em;
+  cursor: pointer;
+}
+.Deck-button:hover {
+  box-shadow: inset 1px 1px 5px rgb(47, 71, 116);
+}
+.Deck-title {
+  font-weight: 300;
+  font-size: 2em;
+  color: #dddddd;
+  text-shadow: 1px 1px 3px royalblue;
+}
+.Deck-sub-title {
+  font-weight: 300;
+  font-size: 1.6em;
+  color: royalblue;
+  text-shadow: 1px 1px 2px rgb(15, 179, 245);
+  word-spacing: 2px;
+  letter-spacing: 1.5px;
+}
+.Deck-cardarea {
+  margin-top: 90px;
+}
