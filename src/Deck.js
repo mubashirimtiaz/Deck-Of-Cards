@@ -72,7 +72,7 @@ export default class Deck extends Component {
         {!this.state.isRemaining ? (
           <div>
             <h1 className="Deck-title">
-              Get Dealer{" "}
+              Card Dealer{" "}
               <span role="img" aria-label="img">
                 😏😏
               </span>
